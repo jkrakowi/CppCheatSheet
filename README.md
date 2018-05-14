@@ -81,4 +81,4 @@ SET(CMAKE_CXX_COMPILER /path/to/cpp/compiler)
 
 ## License
 
-Code published in this repository is under **Beerware** license. You are hereby granted free to do whatever you want with published code snippets and software under one condition: if you would meet the author of example you found useful, you can buy her/him a beer in return. 
+Code published in this repository is under **Beerware** license. You are free to do whatever you want with published code snippets and software under one condition: if you would meet the author of example you found useful, you can buy her/him a beer in return. 
