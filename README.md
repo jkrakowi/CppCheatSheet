@@ -64,7 +64,7 @@ To install *cmake*:
 ```
 $ sudo apt-get install cmake
 ```
-To compile exmaple, fo to the example's root folder and run following commands:
+To compile exmaple, go to the example's root folder and run following commands:
 
 ```
 $ cmake CMakeLists.txt
@@ -73,7 +73,7 @@ $ make
 Files and tools needed to compile should be automatically detected and compiled
 
 
- Cmake will take your default C++ compiler. It can be changing by adding following line to the *CMakeLists.txt* in the examlple root folder:
+ Cmake will take your default C++ compiler. It can be changed by adding following line to the *CMakeLists.txt* in the examlple root folder:
 
 ```
 SET(CMAKE_CXX_COMPILER /path/to/cpp/compiler)
